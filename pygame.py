@@ -12,3 +12,4 @@ def main():
         display_surface.fill(blue)
         for event in pygame.event.get():
             pygame.quit()
+            print()
