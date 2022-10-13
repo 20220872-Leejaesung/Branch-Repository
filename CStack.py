@@ -23,3 +23,4 @@ if __name__ =="__main__":
     print(stack)
     print("pop", stack.pop())
     print(stack)
+print()
